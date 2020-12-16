@@ -1,5 +1,5 @@
 {
-  "name": "3id-connect",
+  "name": "3id-connect-codingsh",
   "version": "1.0.0-alpha.6",
   "description": "Account management for 3ID",
   "main": "lib/index.js",
